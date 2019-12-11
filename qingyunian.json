@@ -1,0 +1,35 @@
+  {
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "[电视剧]庆余年",
+	"channels": [
+		{
+			"name":"第22集",
+	                "logo":"https://img3.doubanio.com/view/photo/r/public/p2575778772.jpg",
+			"url": "https://m3u8.66parse.xyz/hls/g00336gt00t.m3u8"
+		},
+		{
+			"name": "第23集",
+	                 "logo":"https://img3.doubanio.com/view/photo/r/public/p2575778772.jpg",
+			"url": "https://m3u8.66parse.xyz/hls/w00336u0t1b.m3u8"
+		}
+		{
+			"name": "第24集",
+	                 "logo":"https://img3.doubanio.com/view/photo/r/public/p2575778772.jpg",
+			"url": "https://m3u8.66parse.xyz/hls/10119726700.m3u8"
+		}
+			"name": "第25集",
+	                 "logo":"https://img3.doubanio.com/view/photo/r/public/p2575778772.jpg",
+			"url": "https://m3u8.66parse.xyz/hls/10119743700.m3u8"
+		}
+		}
+			"name": "第26集",
+	                 "logo":"https://img3.doubanio.com/view/photo/r/public/p2575778772.jpg",
+			"url": "https://m3u8.66parse.xyz/hls/c0033vaqexb.m3u8"
+		}
+		}
+			"name": "第27集",
+	                 "logo":"https://img3.doubanio.com/view/photo/r/public/p2575778772.jpg",
+			"url": "https://m3u8.66parse.xyz/hls/k00331cqhio.m3u8"
+		}
+	]
+}
